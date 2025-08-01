@@ -20,9 +20,9 @@ Each project is designed to:
 
 Jump to a specific language section:
 
-* [JavaScript / TypeScript](#javascripttypescript)
-* [Python](#python)
-* [C](#c)
+* [JavaScript / TypeScript](#-javascripttypescript)
+* [Python](#-python)
+* [C](#-c)
 * [C++](#c-1)
 * [Go](#go)
 * [Dart](#dart)
