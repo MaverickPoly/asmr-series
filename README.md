@@ -16,6 +16,31 @@ Each project is designed to:
 
 ---
 
+## 🧭 Quick Links
+
+Jump to a specific language section:
+
+* [JavaScript / TypeScript](#javascripttypescript)
+* [Python](#python)
+* [C](#c)
+* [C++](#c-1)
+* [Go](#go)
+* [Dart](#dart)
+* [Java](#java)
+* [PHP](#php)
+* [C#](#c-2)
+* [Godot](#godot)
+* [Rust](#rust)
+* [Kotlin](#kotlin)
+* [Swift](#swift)
+* [Lua](#lua)
+* [R](#r)
+* [Haskell](#haskell)
+
+
+---
+
+
 ## 🗂️ Projects by Language
 
 ### ![JavaScript/TypeScript](https://skillicons.dev/icons?i=js,ts)
