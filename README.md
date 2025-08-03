@@ -1,6 +1,6 @@
 ## 🎧 ASMR Series – Project Showcase
 
-Welcome to my **ASMR Series** — a curated collection of projects that provide **"Autonomous Sensory Mastery through Repetition"** in programming. These mini-projects are focused, fast-paced, and categorized by tech stack. 
+Welcome to my **ASMR Series** — a curated collection of projects that provide **"Autonomous Sensory Mastery through Repetition"** in programming. These mini-projects are focused, fast-paced, and categorized by tech stack.
 Road to Polyglot Programmer 🔥.
 
 ---
@@ -9,10 +9,10 @@ Road to Polyglot Programmer 🔥.
 
 Each project is designed to:
 
-* Reinforce core programming concepts through repetition
-* Explore different domains like frontend, backend, CLI, bots, and more
-* Be minimal, focused, and clean
-* Help others follow along and build from scratch
+- Reinforce core programming concepts through repetition
+- Explore different domains like frontend, backend, CLI, bots, and more
+- Be minimal, focused, and clean
+- Help others follow along and build from scratch
 
 ---
 
@@ -20,33 +20,31 @@ Each project is designed to:
 
 Jump to a specific language section:
 
-* [JavaScript / TypeScript](#javascripttypescript)
-* [Python](#python)
-* [C](#c)
-* [C++](#c-1)
-* [Go](#go)
-* [Dart](#dart)
-* [Java](#java)
-* [PHP](#php)
-* [C#](#c-2)
-* [Godot](#godot)
-* [Rust](#rust)
-* [Kotlin](#kotlin)
-* [Swift](#swift)
-* [Lua](#lua)
-* [R](#r)
-* [Haskell](#haskell)
-
+- [JavaScript / TypeScript](#javascripttypescript)
+- [Python](#python)
+- [C](#c)
+- [C++](#c-1)
+- [Go](#go)
+- [Dart](#dart)
+- [Java](#java)
+- [PHP](#php)
+- [C#](#c-2)
+- [Godot](#godot)
+- [Rust](#rust)
+- [Kotlin](#kotlin)
+- [Swift](#swift)
+- [Lua](#lua)
+- [R](#r)
+- [Haskell](#haskell)
 
 ---
-
 
 ## 🗂️ Projects by Language
 
 ### ![JavaScript/TypeScript](https://skillicons.dev/icons?i=js,ts)
 
 | Project                             | Description                              | Stack                | Link                                                                        |
-|-------------------------------------|------------------------------------------|----------------------|-----------------------------------------------------------------------------|
+| ----------------------------------- | ---------------------------------------- | -------------------- | --------------------------------------------------------------------------- |
 | `asmr-javascript-beginnerConsole`   | Mini JavaScript console applications     | Node JS              | [GitHub](https://github.com/MaverickPoly/asmr-javascript-beginnerConsole)   |
 | `asmr-javascript-html_manipulation` | Simple JavaScript DOM projects           | Vanilla JS + DOM     | [GitHub](https://github.com/MaverickPoly/asmr-javascript-html_manipulation) |
 | `asmr-javascript-css_beginner`      | Simple CSS Styling projects              | CSS + Vanilla JS     | [GitHub](https://github.com/MaverickPoly/asmr-javascript-css_beginner)      |
@@ -66,7 +64,7 @@ Jump to a specific language section:
 ### ![Python](https://skillicons.dev/icons?i=py)
 
 | Project               | Description                      | Stack   | Link                                                          |
-|-----------------------|----------------------------------|---------|---------------------------------------------------------------|
+| --------------------- | -------------------------------- | ------- | ------------------------------------------------------------- |
 | `asmr-python-tkinter` | Simple Desktop Apps              | Tkinter | [GitHub](https://github.com/MaverickPoly/asmr-python-tkinter) |
 | `asmr-python-dsa`     | Data Structures and algorithms   | Plain   | [GitHub](https://github.com/MaverickPoly/asmr-python-dsa)     |
 | `asmr-python-flask`   | Backend Development With Flask   | Flask   | [GitHub](https://github.com/MaverickPoly/asmr-python-flask)   |
@@ -81,7 +79,7 @@ Jump to a specific language section:
 ### ![C](https://skillicons.dev/icons?i=c)
 
 | Project           | Description                    | Stack  | Link                                                      |
-|-------------------|--------------------------------|--------|-----------------------------------------------------------|
+| ----------------- | ------------------------------ | ------ | --------------------------------------------------------- |
 | `asmr-c-beginner` | Beginner Console Projects      | Plain  | [GitHub](https://github.com/MaverickPoly/asmr-c-beginner) |
 | `asmr-c-dsa`      | Data Structures and Algorithms | Plain  | [GitHub](https://github.com/MaverickPoly/asmr-c-dsa)      |
 | `asmr-c-raylib`   | Game Development with Raylib   | Raylib | [GitHub](https://github.com/MaverickPoly/asmr-c-raylib)   |
@@ -91,7 +89,7 @@ Jump to a specific language section:
 ### ![C++](https://skillicons.dev/icons?i=cpp)
 
 | Project             | Description                    | Stack | Link                                                        |
-|---------------------|--------------------------------|-------|-------------------------------------------------------------|
+| ------------------- | ------------------------------ | ----- | ----------------------------------------------------------- |
 | `asmr-cpp-beginner` | Beginner Console Projects      | Plain | [GitHub](https://github.com/MaverickPoly/asmr-cpp-beginner) |
 | `asmr-cpp-dsa`      | Data Structures and Algorithms | Plain | [GitHub](https://github.com/MaverickPoly/asmr-cpp-dsa)      |
 
@@ -100,7 +98,7 @@ Jump to a specific language section:
 ### ![Go](https://skillicons.dev/icons?i=go)
 
 | Project            | Description                    | Stack | Link                                                       |
-|--------------------|--------------------------------|-------|------------------------------------------------------------|
+| ------------------ | ------------------------------ | ----- | ---------------------------------------------------------- |
 | `asmr-go-beginner` | Beginner Console Projects      | Plain | [GitHub](https://github.com/MaverickPoly/asmr-go-beginner) |
 | `asmr-go-fiber`    | Backend Development with Fiber | Fiber | [GitHub](https://github.com/MaverickPoly/asmr-go-fiber)    |
 | `asmr-go-gin`      | Backend Development With Gin   | Gin   | [GitHub](https://github.com/MaverickPoly/asmr-go-gin)      |
@@ -109,16 +107,17 @@ Jump to a specific language section:
 
 ### ![Dart](https://skillicons.dev/icons?i=dart)
 
-| Project              | Description                | Stack | Link                                                         |
-|----------------------|----------------------------|-------|--------------------------------------------------------------|
-| `asmr-dart-beginner` | Beginner Console Projects  | Plain | [GitHub](https://github.com/MaverickPoly/asmr-dart-beginner) |
+| Project              | Description                               | Stack   | Link                                                         |
+| -------------------- | ----------------------------------------- | ------- | ------------------------------------------------------------ |
+| `asmr-dart-beginner` | Beginner Console Projects                 | Plain   | [GitHub](https://github.com/MaverickPoly/asmr-dart-beginner) |
+| `asmr-dart-flutter`  | Projects with the best framework on earth | Flutter | [GitHub](https://github.com/MaverickPoly/asmr-dart-flutter)  |
 
 ---
 
 ### ![Java](https://skillicons.dev/icons?i=java)
 
 | Project              | Description                    | Stack | Link                                                         |
-|----------------------|--------------------------------|-------|--------------------------------------------------------------|
+| -------------------- | ------------------------------ | ----- | ------------------------------------------------------------ |
 | `asmr-java-beginner` | Beginner Console Projects      | Plain | [GitHub](https://github.com/MaverickPoly/asmr-java-beginner) |
 | `asmr-java-dsa`      | Data Structures and Algorithms | Plain | [GitHub](https://github.com/MaverickPoly/asmr-java-dsa)      |
 
@@ -126,16 +125,16 @@ Jump to a specific language section:
 
 ### ![Php](https://skillicons.dev/icons?i=php)
 
-| Project             | Description                    | Stack | Link                                                        |
-|---------------------|--------------------------------|-------|-------------------------------------------------------------|
-| `asmr-php-beginner` | Beginner PHP Web Projects      | Plain | [GitHub](https://github.com/MaverickPoly/asmr-php-beginner) |
+| Project             | Description               | Stack | Link                                                        |
+| ------------------- | ------------------------- | ----- | ----------------------------------------------------------- |
+| `asmr-php-beginner` | Beginner PHP Web Projects | Plain | [GitHub](https://github.com/MaverickPoly/asmr-php-beginner) |
 
 ---
 
 ### ![C#](https://skillicons.dev/icons?i=cs)
 
 | Project            | Description               | Stack | Link                                                       |
-|--------------------|---------------------------|-------|------------------------------------------------------------|
+| ------------------ | ------------------------- | ----- | ---------------------------------------------------------- |
 | `asmr-cs-beginner` | Beginner Console Projects | Plain | [GitHub](https://github.com/MaverickPoly/asmr-cs-beginner) |
 
 ---
@@ -145,7 +144,7 @@ Jump to a specific language section:
 Coming soon...
 
 | Project | Description | Stack | Link |
-|---------|-------------|-------|------|
+| ------- | ----------- | ----- | ---- |
 
 ---
 
@@ -154,7 +153,7 @@ Coming soon...
 Coming soon...
 
 | Project | Description | Stack | Link |
-|---------|-------------|-------|------|
+| ------- | ----------- | ----- | ---- |
 
 ---
 
@@ -163,7 +162,7 @@ Coming soon...
 Coming soon...
 
 | Project | Description | Stack | Link |
-|---------|-------------|-------|------|
+| ------- | ----------- | ----- | ---- |
 
 ---
 
@@ -171,8 +170,8 @@ Coming soon...
 
 Coming soon...
 
-| Project        | Description           | Stack       | Link                                                   |
-|----------------|-----------------------|-------------|--------------------------------------------------------|
+| Project | Description | Stack | Link |
+| ------- | ----------- | ----- | ---- |
 
 ---
 
@@ -181,7 +180,7 @@ Coming soon...
 Coming soon...
 
 | Project | Description | Stack | Link |
-|---------|-------------|-------|------|
+| ------- | ----------- | ----- | ---- |
 
 ---
 
@@ -190,7 +189,7 @@ Coming soon...
 Coming soon...
 
 | Project | Description | Stack | Link |
-|---------|-------------|-------|------|
+| ------- | ----------- | ----- | ---- |
 
 ---
 
@@ -199,4 +198,4 @@ Coming soon...
 Coming soon...
 
 | Project | Description | Stack | Link |
-|---------|-------------|-------|------|
+| ------- | ----------- | ----- | ---- |
